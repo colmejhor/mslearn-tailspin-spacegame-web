@@ -7,7 +7,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'Default'
+  name: 'Default'
 
 variables:
   buildConfiguration: 'Release'
